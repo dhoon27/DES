@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "des_param.h": "c",
+        "utils.h": "c"
+    }
+}
